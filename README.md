@@ -1,6 +1,6 @@
 Para executar esse projeto é necessário criar uma conta no mongoDB.
 
-# Executando backand
+# Executando backend
 Criar na pasta BACKEND um arquivo com o nome .env e escrever no arquivo as seguintes váriaveis:
 
 PORT=5000
